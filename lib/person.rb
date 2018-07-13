@@ -1,3 +1,3 @@
 # person.rb
 class Person
-  def 
+  def name=(person_name)
