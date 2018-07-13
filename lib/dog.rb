@@ -1,7 +1,7 @@
 # dog.rb
 class Dog
   attr_reader :name, :breed
-  attr_writer :breed
+
   
   def name=(dog_name)
    @name = dog_name
